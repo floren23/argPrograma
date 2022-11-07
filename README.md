@@ -1,2 +1,2 @@
 # argPrograma
-repositorio de Back end/ Front end
+repositorio de Back end
